@@ -1,0 +1,12 @@
+--> Binding is done for each "variable" and "function"
+
+--> Binding refers to aprocess of converting the identifiers such as vavriables into addresses.
+
+--> For functions,binding means matching the call with the right function definition by the compiler
+
+							|------Binding-------|
+							|		     |
+							|		     |
+					  Early   <-----|		     |----> Late
+  					  Binding				    Binding
+					
